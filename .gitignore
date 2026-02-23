@@ -6,3 +6,5 @@
 *.zip
 *.tfstate
 .env
+__pycache__
+*.egg-info
